@@ -1,2 +1,2 @@
 # GMU-IST-Website
-project created for the IST department at GMU
+prototype website project created for the IST department at GMU
